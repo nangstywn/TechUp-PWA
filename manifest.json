@@ -1,0 +1,19 @@
+{
+    "name": "Tech Indonesia",
+    "short_name": "My Tech",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#007aff",
+    "background_color": "#fff",
+    "description": "Best Technology",
+    "type": "image/png",
+    "src": "/im.png",
+    "purpose": "any maskable",
+    "icons": [
+        {
+            "src": "image/image.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

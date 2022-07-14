@@ -1,0 +1,27 @@
+
+.container h1{
+  display: block;
+}
+.tx1{
+  color: white;
+  font-size: 60px;
+  font-weight: 700;
+  letter-spacing: 8px;
+  margin-bottom: 20px;
+  position: relative;
+  animation:tx1 3s 1;
+}
+.tx2{
+  text-transform: capitalize;
+}
+@keyframes tx1 {
+  0%{
+      color: black;
+  }
+  35%{
+    letter-spacing: 25px;
+  }
+  85%{
+    letter-spacing: 8px;
+  }
+}
